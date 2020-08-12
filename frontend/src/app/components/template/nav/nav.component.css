@@ -1,17 +1,21 @@
-.sidenav {
+.sidenav-menu {
     background-color: #3F51B5;
     width: 200px;
 }
 
-.sidenav a {
+.sidenav-menu a {
     color: #FFF;
 }
 
-.sidenav i {
+.sidenav-menu i {
     padding-right: 10px;
 }
 
 .content {
     padding: 16px;
     background-color: #FFF;
+}
+
+.content > button {
+    margin-top: 15px;
 }
